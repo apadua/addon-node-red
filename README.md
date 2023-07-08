@@ -47,7 +47,7 @@ You have several options to get them answered:
 - The [Home Assistant Discord chat server][discord-ha] for general Home
   Assistant discussions and questions.
 - The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
+- Join  [/r/homeassistant][reddit] on [Reddit][reddit]
 - The [Node-RED documentation][nodered-docs]
 
 You could also [open an issue here][issue] GitHub.
